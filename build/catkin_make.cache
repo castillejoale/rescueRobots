@@ -1,0 +1,2 @@
+odroid_machine:project
+-DCATKIN_DEVEL_PREFIX=/home/cc/ee106a/fa15/class/ee106a-bv/project/devel -DCMAKE_INSTALL_PREFIX=/home/cc/ee106a/fa15/class/ee106a-bv/project/install -G Unix Makefiles
